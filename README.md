@@ -1,5 +1,4 @@
-
-// Task to do: This JSON description with the following fields:
+Task to do: This JSON description with the following fields:
 
 // Equipment No (text, 1-255 characters, unique, required)
 // First Name (text, 1-255 characters, required)
