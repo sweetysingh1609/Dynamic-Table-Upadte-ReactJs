@@ -1,3 +1,6 @@
+Deployed Site: https://dynamictableupdatereact.netlify.app/
+
+
 Task to do: This JSON description with the following fields:
 
 // Equipment No (text, 1-255 characters, unique, required)
